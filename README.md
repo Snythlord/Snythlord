@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snythlord
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python, java and JavaScript
+- 🌱 I’m currently learning C#, Python, Java and JavaScript
 - 💞️ I’m looking to collaborate on app develpment. 
 - 📫 Message me on gmail. Esescent@gmail.com
 
